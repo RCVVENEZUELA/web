@@ -1,2 +1,17 @@
-# web
-RCVVENEZUELAONLINE
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Visor de PDF</title>
+</head>
+<body>
+
+    <!-- Cambia "nombre-de-tu-archivo.pdf" por el nombre real de tu documento -->
+    <embed 
+        src="RCV_000123RAUL.pdf" 
+        type="application/pdf" 
+        width="90%" 
+        height="900px">
+
+</body>
+</html>
